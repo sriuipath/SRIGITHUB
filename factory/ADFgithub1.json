@@ -1,0 +1,9 @@
+{
+	"name": "ADFgithub1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "004d1adb-503f-4fba-b5bf-e9a7b80a2b50",
+		"tenantId": "ceb85a5f-4349-400c-abd0-8410a3f90d93"
+	}
+}
